@@ -7,6 +7,7 @@ from src.components.data_transformation import DataTransformation
 from src.components.model_trainer import ModelTrainer
 from src.components.data_ingestion import DataIngestion
 
+
 application=Flask(__name__)
 
 app=application
